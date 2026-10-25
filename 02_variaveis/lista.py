@@ -5,7 +5,8 @@ lista = [
 "Priscilla",
 "Maurício",
 "Josiane",
-"Diogo"
+"Diogo",
+"Raisa"
 ]
 
 print(lista)
