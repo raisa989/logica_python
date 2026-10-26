@@ -5,8 +5,8 @@ nota2 = float(input("Digite a segunda nota: "))
 media = (nota1 + nota2)/2
 
 if media >= 7:
-    print(f"{nome} foi aprovado(a)")
+    print(f"{nome} foi aprovado(a) com a média {media}")
 elif media >= 5:
-    print(f"{nome} está de exame(a)")
+    print(f"{nome} está de exame(a) com a média {media}")
 else:
-    print(f"{nome} foi reprovado(a)")
+    print(f"{nome} foi reprovado(a) com a média {media}")
